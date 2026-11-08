@@ -2,6 +2,6 @@
 
 int main() {
     string name;
-    std::cin >> name; //вводим имя пользователя
-    std::cout << "hello world from " << name << std::endl; //выводим приветствие
+    std::cin >> name; //enter user name
+    std::cout << "hello world from " << name << std::endl; //show greeting
 }
